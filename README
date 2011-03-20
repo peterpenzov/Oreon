@@ -1,3 +1,26 @@
 Project Orion
 
 Server management software
+
+Descriptions of the software:
+
+Version 1
+
+1. Monitor the free HDD space and partitions
+2. List all users, logged users
+3. List installed packages
+
+Verison 2
+
+1. Send e-mails when user is logged in, HDD is full
+2. running processes
+3. Add remove packages
+
+Version 3
+
+1. Monitor network activity - upload and download speed, traffic per day
+2. Panel for creating users, ftp accounts and etc.
+
+Version 4
+
+1. Send data to remote server
